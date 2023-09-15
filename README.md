@@ -10,3 +10,7 @@ Scraping and Analyzing Mars Weather Data
 ![Mean Pressure Per Month](figures/mean_pressure.png)
 
 ![Terrestrial Days in a Martian Year](figures/terrestrial_days.png)
+
+## Exported Dataset
+
+![Mars Data CSV](Exported_Data/Mars_Data.csv)
